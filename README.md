@@ -12,7 +12,7 @@ DapperLink is a Chrome Extension that provides users with the capability to crea
 
 1. Clone this repository:
     ```
-    git clone https://github.com/yourusername/dapperlink.git
+    git clone https://github.com/cihatyildiz/dapperlink.git
     ```
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable 'Developer mode' using the toggle at the top right.
